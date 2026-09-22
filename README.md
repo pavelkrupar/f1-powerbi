@@ -1,5 +1,4 @@
-### 👉 See the Power BI report [HERE](https://app.powerbi.com/view?r=eyJrIjoiNDAzMjYxMDQtYmNjYS00OTIwLTgyMTktM2MwNjE5ZDU3MTRjIiwidCI6IjNhZDdkODg3LTBjZDUtNGU5MC1iMDc4LWZlNzRhMTVjMTQ2YSJ9)
-<br>
+***(The report is currently not available online)***(
 
 # 📖 Introduction
 
