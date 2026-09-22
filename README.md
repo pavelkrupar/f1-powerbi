@@ -1,4 +1,4 @@
-***(The report is currently not available online)***(
+***(The report is currently not available online)***
 
 # 📖 Introduction
 
